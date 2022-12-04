@@ -16,7 +16,4 @@ Skills: REACT / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=holus-bolus&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=holus-bolus)  
-
-![GitHub metrics](https://metrics.lecoq.io/holus-bolus)  
 
