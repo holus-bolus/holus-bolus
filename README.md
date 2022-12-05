@@ -4,7 +4,7 @@ I am a Junior front-end developer
 
 Skills: REACT / JS / HTML / CSS
 
-- 🔭 I’m currently working on studying React 
+- 🔭 I’m currently working on a React website creating
 - 🌱 I’m currently learning React, Redux 
 - 🤔 I’m looking for help with work on a React project 
 - 📫 How to reach me: https://www.facebook.com/oleksii.ustinov 
