@@ -2,7 +2,7 @@
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+page)](https://git.io/typing-svg)
 I am a Junior front-end developer
 
-Skills: REACT / JS / HTML / CSS
+Skills: REACT / ANGULAR/ JS / HTML / CSS
 
 - 🔭 I’m currently working on a React website creating
 - 🌱 I’m currently learning Angular, React, Redux 
