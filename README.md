@@ -19,7 +19,7 @@ I am a front-end developer
 ![](https://img.shields.io/badge/Webpack-89CFF3?style=for-the-badge&logo=webpack&logoColor=000)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
-
+[![codewars](https://www.codewars.com/users/username/badges/large)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/holus-bolus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oleksii-ustinov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oleksii.ustinov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/OleksiiU)  
 
@@ -27,4 +27,4 @@ I am a front-end developer
 
 
 
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/OleksiiU)
+
