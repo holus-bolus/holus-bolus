@@ -23,14 +23,7 @@ I am a front-end developer
 
  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oleksii-ustinov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oleksii.ustinov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/OleksiiU)  
 
-## ⚙️ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-    <img height="195px"  alt="webDev's Github Languages" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holus-bolus&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" />
-  </tr>
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
