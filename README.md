@@ -28,7 +28,7 @@ I am a front-end developer
 <table>
   <tr>
     <td>
-    <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=holus-bolus&theme=algolia&layout=compact" />
+    <img height="195px"  alt="webDev's Github Languages" src="[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holus-bolus&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" />
   </tr>
 </table>
 
