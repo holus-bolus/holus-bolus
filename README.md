@@ -21,9 +21,16 @@ I am a front-end developer
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Codewars](https://www.codewars.com/users/OleksiiU/badges/large)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/holus-bolus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oleksii-ustinov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oleksii.ustinov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/OleksiiU)  
+ [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/oleksii-ustinov/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/oleksii.ustinov)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/OleksiiU)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holus-bolus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+## ⚙️ GitHub Analytics
+
+<table>
+  <tr>
+    <td>
+    <img height="195px"  alt="webDev's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=holus-bolus&theme=algolia&layout=compact" />
+  </tr>
+</table>
 
 
 
