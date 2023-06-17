@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Oleksii
 #### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+Github+page)](https://git.io/typing-svg)
-I am a front-end developer
+I am a front-end developer and a front-end tutor
 
 ## 🛠️ Technologies & Tools
 
