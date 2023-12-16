@@ -49,9 +49,11 @@ I enjoy solving coding challenges on platforms like Codewars. Here's my Codewars
 
 ![Codewars](https://www.codewars.com/users/OleksiiU/badges/large)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
 ## GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holus-bolus&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holus-bolus&layout=pie)](https://github.com/holus-bolus/github-readme-stats)
 
 
 
