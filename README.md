@@ -51,11 +51,4 @@ I enjoy solving coding challenges on platforms like Codewars. Here's my Codewars
 
 
 
-## GitHub Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=holus-bolus&layout=pie)](https://github.com/holus-bolus/github-readme-stats)
-
-
-
-
 
