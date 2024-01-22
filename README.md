@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Oleksii</h1>
-<h3 align="center">A passionate frontend developer from Ukraine</h3>
+<h3 align="center">A frontend developer from Ukraine</h3>
 
 - 🔭 I’m currently working on [Blog](https://github.com/holus-bolus/blog-typescript)
 
@@ -22,7 +22,7 @@
 
 
 
-I am a passionate front-end developer with a strong focus on creating responsive and user-friendly web applications. With several years of experience in the industry, I have worked on various projects that have sharpened my skills in front-end development.
+I am a front-end developer with a strong focus on creating responsive and user-friendly web applications. With several years of experience in the industry, I have worked on various projects that have sharpened my skills in front-end development.
 
 **Key Skills:**
 - Proficient in HTML5, CSS3, and JavaScript, with expertise in creating modern and accessible web interfaces.
