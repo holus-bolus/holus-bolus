@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Blog](https://github.com/holus-bolus/blog-typescript)
 
-- 🌱 I’m currently learning **React, Redux, MySQL, Docker**
-
 - 💬 Ask me about **React, Angular, Node**
 
 - 📫 How to reach me **ustinovoleksij@gmail.com**
