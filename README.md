@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oleksii</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [Space2Study]([https://github.com/holus-bolus/space-2-study-self])
+
+- 🔭 I’m currently working on [Space2Study](https://github.com/holus-bolus/space-2-study-self)
+
 
 - 💬 Ask me about **React, Angular, Node**
 
