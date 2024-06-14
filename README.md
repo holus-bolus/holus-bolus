@@ -2,7 +2,7 @@
 <h3 align="center">A frontend developer from Ukraine</h3>
 
 
-- 🔭 I’m currently working on [Space2Study](https://github.com/holus-bolus/space-2-study-self) and [Blog](https://github.com/holus-bolus/blog-nextjs-express-mongo)
+- 🔭 I’m currently working on [Space2Study](https://github.com/holus-bolus/space-2-study-self), [Blog](https://github.com/holus-bolus/blog-nextjs-express-mongo) and [React Native App](https://github.com/holus-bolus/react-native-train)
 
 
 - 💬 Ask me about **React, Angular, Node**
