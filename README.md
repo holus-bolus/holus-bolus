@@ -1,14 +1,9 @@
 <h1 align="center">Hi 👋, I'm Oleksii</h1>
 <h3 align="center">A frontend developer from Ukraine</h3>
 
-
-- 🔭 I’m currently working on [Space2Study](https://github.com/holus-bolus/space-2-study-self), [Blog](https://github.com/holus-bolus/blog-nextjs-express-mongo) and [React Native App](https://github.com/holus-bolus/fe-study-react-native-app)
-
-
 - 💬 Ask me about **React, Angular, Node**
 
 - 📫 How to reach me **ustinovoleksij@gmail.com**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
